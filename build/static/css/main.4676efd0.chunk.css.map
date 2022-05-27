@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EAAI,cAAiB,CAErB,eACI,gBACJ","file":"main.4676efd0.chunk.css","sourcesContent":["a { cursor: pointer; }\n\n.app-container {\n    min-height: 350px;\n}\n"]}
